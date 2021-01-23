@@ -1,4 +1,4 @@
 # vector_rotation_cryptography
 Repo for example for cryptography that uses vector rotations 
 
-<img>PXL_20210123_154612505.jpg </img>
+[braindump](https://github.com/trisimix/vector_rotation_cryptography/blob/main/PXL_20210123_154612505.jpg)
